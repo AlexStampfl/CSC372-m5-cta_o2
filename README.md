@@ -1,12 +1,12 @@
 # CSC372 Module 5 Critical Thinking Assignment, Option 2
 
-### Overview
+## Overview
 This project is to create an application with a method / function that used recursion.
 
-### Features
+## Features
 
-### How it Works
+## How it Works
 
-### Running the Application
+## Running the Application
 
 ## Requirements
